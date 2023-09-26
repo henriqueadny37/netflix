@@ -16,7 +16,7 @@ export const Header = () => {
             <img
               className="ms-2"
               src="/icons/arrow-down.svg"
-              alt=""
+              alt="Image"
               width={15}
             />
           </div>
